@@ -1,9 +1,4 @@
- requirements.txt  
-  frontend/  
-    package.json  
-    next.config.js  
-    src/  
-      pages/  
-        generate-ad.tsx  
-  .gitignore  
-  README.md  
+`cd backend`  
+`python3 -m venv venv && source venv/bin/activate`  
+`pip install -r requirements.txt`  
+Start server: `uvicorn main:app --reload`
