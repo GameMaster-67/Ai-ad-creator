@@ -1,0 +1,9 @@
+ requirements.txt  
+  frontend/  
+    package.json  
+    next.config.js  
+    src/  
+      pages/  
+        generate-ad.tsx  
+  .gitignore  
+  README.md  
